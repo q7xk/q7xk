@@ -34,7 +34,7 @@ I care about software that is understandable, inspectable and gives the user con
 
 ### `interests`
 
-`Open Source` · `Privacy` · `Linux` · `Browsers` · `Free Software` · `Self-hosting`
+`Open Source` · `Privacy` · `Linux` · `Browsers` · `Free Software`
 
 ---
 
