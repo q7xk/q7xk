@@ -32,19 +32,6 @@ I care about software that is understandable, inspectable and gives the user con
 
 ---
 
-### `building`
-
-**Helium**
-A browser project exploring a more open and privacy-respecting web.
-
-**Browser extensions**
-Small tools focused on privacy, customization and making the web less annoying.
-
-**Experiments**
-Prototypes, experiments and questionable ideas that somehow became code.
-
----
-
 ### `interests`
 
 `Open Source` · `Privacy` · `Linux` · `Browsers` · `Free Software` · `Self-hosting`
@@ -53,7 +40,7 @@ Prototypes, experiments and questionable ideas that somehow became code.
 
 ### `stack`
 
-<img src="https://skillicons.dev/icons?i=rust,cpp,js,html,css,bash,linux,git,github" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=rust,cpp,kotlin,js,html,css,bash,linux,git,github" alt="Tech stack">
 
 ---
 
