@@ -37,14 +37,21 @@ I care about software that is understandable, inspectable and gives the user con
 `Open Source` · `Privacy` · `Linux` · `Browsers` · `Free Software`
 
 ---
-
 ### `stack`
 
-<img src="https://skillicons.dev/icons?i=rust,cpp,kotlin,js,html,css,bash,linux,git,github" alt="Tech stack">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp,kotlin,bash" alt="Languages">
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,astro" alt="Web">
+  <br>
+  <img src="https://skillicons.dev/icons?i=linux,arch,git,github" alt="Tools">
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="48" alt="Android">
+</p>
 
 ---
 
 <div align="center">
+
 
 <br>
 
